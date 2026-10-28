@@ -58,7 +58,7 @@ This project was created as a frontend development practice task to improve my u
 - The website does not include a functional shopping cart, user login, payment system, or backend.
 
 ## Wireframe Screenshot
-!Wireframe[ShopEase Responsive E-Commerce Wireframes.png]
+![ShopEase_Simple_Task](ShopEase Responsive E-Commerce Wireframes.png)
 
 ## Live Link 
 
