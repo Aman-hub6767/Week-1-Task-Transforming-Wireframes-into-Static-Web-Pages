@@ -57,6 +57,9 @@ This project was created as a frontend development practice task to improve my u
 - Product buttons are for display and navigation purposes only.
 - The website does not include a functional shopping cart, user login, payment system, or backend.
 
+## Wireframe Screenshot
+!Wireframe[ShopEase Responsive E-Commerce Wireframes.png]
+
 ## Live Link 
 
 https://shopease-task-1.netlify.app/
